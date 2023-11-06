@@ -55,7 +55,6 @@ if (isset($_POST['ldap_server'])) {
 }
 ?>
 
-<!-- <a href="ya.php"  onclick="history.back(); return false;">Retourner en arrière</a> -->
 
 
 
